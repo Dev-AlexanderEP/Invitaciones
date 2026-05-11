@@ -19,6 +19,11 @@ export const metadata: Metadata = {
   icons: {
     icon: "/icon.svg",
   },
+  openGraph: {
+    title: "Invitaciones",
+    description: "Invitaciones especiales",
+    siteName: "Invitaciones",
+  },
 };
 
 export default function RootLayout({
